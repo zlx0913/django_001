@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+### CVS template
+/CVS/*
+**/CVS/*
+.cvsignore
+*/.cvsignore
+
+.gitignore
+.idea/
